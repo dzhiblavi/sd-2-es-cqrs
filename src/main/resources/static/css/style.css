@@ -1,0 +1,42 @@
+.chosen {
+    color: brown;
+    text-decoration: underline;
+    text-underline: black;
+}
+
+.warning {
+    background-color: yellow;
+}
+
+.done {
+    background-color: green;
+}
+
+.not_done {
+    background-color: red;
+}
+
+.button {
+    background-color: white; /* Green */
+    border-color: green;
+    color: white;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 8px;
+    width: 100%;
+    height: 100%;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: green;
+    color: white;
+}
+
+.table {
+    border: 1px solid black;
+    text-align: center;
+}
